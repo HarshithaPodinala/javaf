@@ -7,6 +7,6 @@ To run- java Test.java
 Follow these steps to run java
 hi hello gm
 
-hi hello
+hi hello gm
 
 
